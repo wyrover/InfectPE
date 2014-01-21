@@ -1,4 +1,4 @@
 infect-pe
 =========
 
-a test project
+This project was created when I was a student.
