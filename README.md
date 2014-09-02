@@ -1,5 +1,8 @@
 infect-pe
 =========
 
-This project was created when I was a student.
-These code is shit, I just back up here.
+毕业设计时的项目，写的比较菜。
+
+项目包含一个用户进程和一个内核驱动。
+
+内存驱动负责对用户进程保护，隐藏病毒文件。
